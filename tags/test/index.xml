@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on JC&#39;s Slot Blog</title>
+    <link>http://jcgiese.github.io/jcslot/tags/test/</link>
+    <description>Recent content in Test on JC&#39;s Slot Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2016 11:07:21 +0200</lastBuildDate>
+    <atom:link href="http://jcgiese.github.io/jcslot/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>http://jcgiese.github.io/jcslot/2016/05/23/test</link>
+      <pubDate>Mon, 23 May 2016 11:07:21 +0200</pubDate>
+      
+      <guid>http://jcgiese.github.io/jcslot/2016/05/23/test</guid>
+      <description>&lt;p&gt;Juste un premier test &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;essaie de rajouter une &lt;strong&gt;image&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://jcgiese.github.io/jcslot/img/chassis_Mercedes_SC.jpg&#34; alt=&#34;avatar&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
